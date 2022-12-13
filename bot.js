@@ -291,4 +291,4 @@ client.on('message', msg => {
 
 
 
-client.login('MTAyNTg1OTAyMzQ0ODMxNDAyNw.Grmi07.3YiTNenp_hWpivPySRAT-RQU3SVwwG-S9FJ17Q');
+client.login('TOKEN');
